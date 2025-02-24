@@ -1,3 +1,8 @@
+## API Used
+
+This project utilizes the [IMDb Top 100 Movies API](https://rapidapi.com/rapihub-rapihub-default/api/imdb-top-100-movies) from RapidAPI to fetch movie data. 
+
+
 To run this project, you will need to add the following environment variables to your .env file:
 
 REACT_APP_API_KEY=your_api_key_here
