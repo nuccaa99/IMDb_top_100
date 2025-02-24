@@ -1,3 +1,9 @@
+To run this project, you will need to add the following environment variables to your .env file:
+
+REACT_APP_API_KEY=your_api_key_here
+
+REACT_APP_API_URL=your_api_url_here
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
